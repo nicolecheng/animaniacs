@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <h1>Canvas Fun!</h1>
+    <title> canvas </title>
+  </head>
+
+  <body>
+
+    <canvas id = "canvas" width = 500 height = 500 style="border:1px solid black;">
+
+    </canvas>
+
+    <br>
+    
+    <button id = "b"> Clear </button>
+
+    <script src="canvas.js"></script>
+    
+  </body>
+
+</html>
